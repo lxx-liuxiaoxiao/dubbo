@@ -1,5 +1,5 @@
 package com.hello;
 
-public interface IOrderService {
+public interface IOrdersService {
     public Orders query(Long orderId);
 }

@@ -1,6 +1,6 @@
 package com.hello;
 
-public class OrderServiceImpl implements IOrderService {
+public class OrdersServiceImpl implements IOrdersService {
     public Orders query(Long orderId) {
         return null;
     }

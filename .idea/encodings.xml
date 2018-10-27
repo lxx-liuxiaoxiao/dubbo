@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-core" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-orders" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-user" charset="UTF-8" />
   </component>
 </project>
